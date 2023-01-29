@@ -1,5 +1,4 @@
-# dio-desafio2
-
+# Desafio de projeto DIO
 Repositório para desafio de projeto sobre git/github da DIO
 
 ## Links Úteis
