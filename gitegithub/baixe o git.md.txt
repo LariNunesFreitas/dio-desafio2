@@ -1,0 +1,3 @@
+acesse o link
+https://git-scm.com/downloads
+e faça o download seguro do git bash
